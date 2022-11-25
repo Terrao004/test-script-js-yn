@@ -28,5 +28,28 @@
     box-sizing: border-box;
     padding: 36px;
   }
-  
+
+  .header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+  }
+
+  .logo{
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0;
+
+  }
+
+  .button{
+    width: 130px;
+    height: 40px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    text-align: center;
+    
+  }
   
